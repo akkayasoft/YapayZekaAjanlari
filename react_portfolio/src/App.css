@@ -1,0 +1,46 @@
+.App {
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #282c34;
+  color: #fff;
+}
+
+.header nav a {
+  margin-left: 1rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 3rem;
+}
+
+.projects ul {
+  list-style: none;
+  padding: 0;
+}
+
+.projects li {
+  margin-bottom: 1.5rem;
+  border: 1px solid #eee;
+  padding: 1rem;
+  border-radius: 4px;
+}
+
+.footer {
+  text-align: center;
+  padding: 2rem;
+  background: #f5f5f5;
+}
