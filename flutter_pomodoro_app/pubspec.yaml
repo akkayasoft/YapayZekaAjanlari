@@ -1,5 +1,5 @@
-name: flutter_pomodoro_app
-description: A simple Pomodoro timer built with Flutter.
+name: multiplication_adventure
+description: A playful multiplication table adventure game for kids built with Flutter.
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -12,6 +12,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.2
 
 dev_dependencies:
   flutter_test:
